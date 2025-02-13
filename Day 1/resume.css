@@ -1,0 +1,33 @@
+body{
+  background-color: bisque;
+}
+body{
+  text-shadow: 8px 6px 10px rgb(163, 163, 195);
+  font-size: 15px;
+
+}
+#u1{
+  text-decoration: underline dotted;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: rgb(127, 174, 249);
+}
+#u2{
+  color:brown
+}
+#u3{
+  color:green;
+}
+.u4{
+  font-style:oblique;
+  background-color:darkcyan;
+}
+#u5{
+  letter-spacing: 1px;
+  word-spacing: 10px;
+  line-height: 50px;
+  
+}
+#u6{
+  color:cornflowerblue
+}
